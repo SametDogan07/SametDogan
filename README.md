@@ -1,2 +1,2 @@
-# SametDogan
-Ana Sayfa
+# AnaSayfa
+Samet Doğan Kişisel web sitesi
