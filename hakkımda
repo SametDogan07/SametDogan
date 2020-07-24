@@ -1,0 +1,27 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Link ekleme</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <ul>
+        <li><a href="index.html">Anasayfa</a></li>
+        <li><a href="hakkimda.html">Hakkımda</a></li>
+        <li><a href="galeri.html">Galeri</a></li>
+        <li><a href="iletisim.html">İletişim</a></li>
+        <li><a href="calismalar.html">Çalışmalar</a></li>
+    </ul>
+        
+    <h1>Hakkımda Sayfası</h1>
+    <h2>Özgeçmişim</h2>
+    <p>Adım Samet 1999 yılında şubat ayının 8. gününde dünyaya geldim.Ana sınıfını 2 sene okudum.Kaldığımdan filan değil yaşım küçük olduğu için</p>
+    <p>İlk okulu ve orta okuluda aynı okulda yani Altınova İlk Öğretim okulunda bitirdim.10 sene sürdü ve sıkıcı bir maceraydı.</p>
+    <p>Lise hayatım ise daha çok haylazlıklarla geçti.Ayten Çağıran Meslek Lisesinde 4 sene okudum sıfımın en iyisi sayılırdım ama okul kötü olduğu için kötünün iyiside denilebilir.</p>
+    <p>1 sene mezuna kaldım ve buradayım Akdeniz üniversitesi :)</p>
+    
+    <img src="images/samet.jpg"width="150" alt="Öğrenci Samet Doğan">
+    <p>Samet Doğan &copy 2019</p>
