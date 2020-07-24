@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -18,7 +18,6 @@
         <li><a href="iletisim.html">İletişim</a></li>
         <li><a href="calismalar.html">Çalışmalar</a></li>
     <ul>
-    </nav>
     <div id="content">
     <p>Merhabalar kendi kişisel web sitesi oluşturduğum için çok mutluyum. </p>
     <p>Web tasarımı Temelleri dersinden kaldığım için kişisel sitemi yapmam gerekiyor.
@@ -26,7 +25,5 @@
             Okulumun web sitesidir.
     </p>
     </div>
-    <footer>Samet Doğan &copy; 2019</footer>
-</div>
-</body>
-</html>
+    <footer>Samet Doğan &copy; 2020</footer>
+
